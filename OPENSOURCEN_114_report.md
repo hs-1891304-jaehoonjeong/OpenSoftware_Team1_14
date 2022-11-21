@@ -31,6 +31,23 @@ GUI 소개
 ------
 
 API 정의
+| Description | Method | URI | Request Header / Body |
+| --- | --- | --- | --- |
+| 회원 등록 | POST | /user/{userId} | name (String),
+id (String), 
+password (String) |
+| 회원 정보 조회 | GET | /user/{userId} | auth_token (String) |
+| 회원 정보 수정 | PUT | /user/{userId} | auth_token (String) |
+| 회원 탈퇴 | DELETE | /user/{userId} | auth_token (String) |
+| 로그인 | POST | /session | id (String)
+password (String) |
+| 로그아웃 | DELETE | /session | auth_token (String) |
+| 모든 그림 조회 | GET | /pictures |  |
+| 그림 생성 | POST | /pictures | auth_token (String),
+keyword(String) |
+| 특정 그림 정보 조회 | GET | /pictures/{pictureId} |  |
+| 특정 그림 정보 수정 | PUT | /pictures/{pictureId} | auth_token (String) |
+| 특정 그림 삭제 | DELETE | /pictures/{pictureId} | auth_token (String) |
 ------
 
 DFD
