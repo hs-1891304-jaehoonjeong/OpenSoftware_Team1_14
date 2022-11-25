@@ -83,5 +83,7 @@ MIT 라이센스를 사용한다.
 | 특정 그림 삭제 | DELETE | /pictures/{pictureId} | auth_token (String) |
 
 ## DFD
+<img src="./image/dfd.png">
+
 
 ## 마무리 및 소감
