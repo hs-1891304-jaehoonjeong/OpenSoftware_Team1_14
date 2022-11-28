@@ -50,6 +50,9 @@
 사용 오픈소스
 ------
 
+
+서비스 구현을 위한 설계
+
 ## React
 
 사용자 인터페이스 구축을 위한 자바스크립트 라이브러리
@@ -403,6 +406,7 @@ Pandas와 마찬가지로 New BSD라이선스를 사용한다. 3-Clause BSD Lice
 - 상업적 이용 가능
 
 ## GUI 소개
+
 
 ## API 정의
 | Description | Method | URI | Request Header / Body |
