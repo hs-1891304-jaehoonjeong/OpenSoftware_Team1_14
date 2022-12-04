@@ -207,7 +207,7 @@
 
 <br>
 
-6. NGINX
+5. NGINX
 
     - NGINX
 
@@ -236,7 +236,7 @@
 
 <br>
 
-7.  Express.js
+6.  Express.js
 
     ![express.js](What-is-ExpressJS.jpg)
 
@@ -268,7 +268,7 @@
 
 <br>
 
-8. PostgreSQL
+7. PostgreSQL
 
     - PostgreSQL
         - PostgreSQL은 객체 관계형 데이터베이스 관리 시스템(ORDBMS)중 하나이다.
@@ -299,7 +299,7 @@
         - BSD, MIT 라이선스와 유사하여 소스를 수정해서 새로운 상용 데이터베이스를 만든다 하더라도 소스를 공개할 의무가 없다.
         - 소프트웨어의 사용, 복제, 변경, 배포가 허용되며 무료이고 서면에 의한 동의도 요구하지 않는다.
 
-9. Stable Diffusion
+8. Stable Diffusion
 
     - Stable diffusion
 
@@ -329,7 +329,7 @@
 
 <br>
 
-10. TensorFlow
+9. TensorFlow
 
     -   TensorFlow
 
@@ -371,7 +371,7 @@
 
 <br>
 
-11. Lightfm
+10. Lightfm
 
     -   LightFM
 
@@ -405,7 +405,7 @@
 
 <br>
 
-12. Pandas
+11. Pandas
 
     -   Pandas
 
@@ -434,7 +434,7 @@
 
 <br>
 
-13. scikit-learn
+12. scikit-learn
 
     -   scikit-learn
 
