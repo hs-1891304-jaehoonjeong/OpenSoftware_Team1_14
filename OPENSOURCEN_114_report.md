@@ -78,8 +78,7 @@
 
     -   라이선스
         -   MIT라이선스
-
-    <hr>
+<
 
 2.  React Native
 
