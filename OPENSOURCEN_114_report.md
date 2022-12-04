@@ -524,7 +524,7 @@
     <img src="./image/ERDiagram.png">
 - DB 스키마
 
-    <img src="./image/DB스키마.png">
+    <img src="./image/DB스키마.PNG">
 <hr>
 
 ## 5. GUI 소개
